@@ -12,7 +12,7 @@ I’m an IT student who enjoys learning through hands-on projects and building u
   </a>
   &nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbqvYhBEx3ALp1397EgYFTboiFpS9IyuFAuqTfvTc4g&s=10)" width="32" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbqvYhBEx3ALp1397EgYFTboiFpS9IyuFAuqTfvTc4g&s=10)" width="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
