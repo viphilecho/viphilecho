@@ -44,13 +44,6 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<!-- Add a badge only if you have used that technology:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
--->
-
-
 
 - **Purpose:** [What problem does it address?]
 - **My contribution:** [What did you personally build or do?]
@@ -66,8 +59,8 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=93C5FD&text_color=C9D1D9" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" alt="Most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=viphilecho&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=93C5FD&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viphilecho&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9" alt="Most-used languages" />
 
 </div>
 
