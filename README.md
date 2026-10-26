@@ -8,7 +8,6 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 
 [GitHub](https://github.com/YOUR_GITHUB_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8b80f9)
 
 </div>
 
