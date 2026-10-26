@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Vina👋
 
 ### IT Student · Aspiring Software Developer
 
@@ -38,29 +38,7 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 -->
 
-## 🚀 Featured Projects
 
-### 🥗 NutriPerson — Healthy Habits Virtual Pet
-
-A virtual-pet game project focused on health education and everyday habits. The concept lets users care for a virtual character through activities inspired by real-life routines, such as eating, exercising, and sleeping.
-
-- **Purpose:** Explore game-based learning to encourage healthier habits.
-- **My contribution:** [Describe your actual role, such as programming, UI design, testing, or project coordination.]
-- **Technologies:** [List only the technologies used in your current implementation.]
-- **Status:** [In progress / Completed]
-- **Repository:** [Add the repository URL]
-- **Demo:** [Add a live demo URL if available]
-
-> Be clear about what is already implemented versus what is still planned. Do not list planned features as completed features.
-
-### 📚 Other Projects
-
-Add your best coursework or personal projects here. For each project, briefly explain the problem, your solution, your contribution, and what you learned.
-
-Use this template:
-
-<details>
-<summary><strong>[Project Name]</strong> — [Short description]</summary>
 
 - **Purpose:** [What problem does it address?]
 - **My contribution:** [What did you personally build or do?]
