@@ -45,14 +45,6 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-- **Purpose:** [What problem does it address?]
-- **My contribution:** [What did you personally build or do?]
-- **Technologies:** [Technologies actually used]
-- **What I learned:** [A concrete lesson]
-- **Status:** [In progress / Completed]
-- **Repository:** [Repository URL]
-- **Demo:** [Live demo URL, if available]
-
 </details>
 
 ## 📊 GitHub Stats
