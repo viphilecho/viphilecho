@@ -12,7 +12,7 @@ I’m an IT student who enjoys learning through hands-on projects and building u
   </a>
   &nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.rawpixel.com/search/linkedin%20icon" width="32" alt="LinkedIn" />
+    <img src="Asset/Linkedin" width="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
