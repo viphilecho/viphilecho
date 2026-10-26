@@ -3,10 +3,6 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=900&size=30&duration=4950&pause=2000&color=E6DDF7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Vina%F0%9F%91%8B" />
 </h1>  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jouxingngo&label=People%20Stalking%20Me&color=0e75b6&style=flat" alt="jouxingngo" /> 
-</p>
-
 
 ### IT Student · Aspiring Software Developer
 
@@ -23,6 +19,19 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 - 🌱 I’m continuously improving my coding, collaboration, and technical documentation skills.
 - 🎯 My goal is to create applications that are useful, maintainable, and easy to use.
 - 🤝 Interested in collaborating, learning from feedback, and exploring internship opportunities.
+
+<div align="center">
+
+<h3>Find Me at:</h3>
+   
+</div>
+
+<p align="center">
+  <a href="https://instagram/vinaancilla">
+    <img src="Asset/Insta" width="32" alt="GitHub" />
+  </a>
+</p>
+  Asset/Insta
 
 ## 🧰 Tech Stack
 
