@@ -54,7 +54,7 @@ I’m an IT student who enjoys learning through hands-on projects and building u
   </a>
   &nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" width="32" alt="LinkedIn" />
+    <img src="Asset/Linkedin" width="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
