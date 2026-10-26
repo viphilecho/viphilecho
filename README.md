@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=900&size=30&duration=4950&pause=2000&color=E6DDF7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Vina%F0%9F%91%8B" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&weight=900&size=30&duration=4950&pause=2000&color=A5B4FC&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Vina%F0%9F%91%8B" />
 </h1>  
 
 
