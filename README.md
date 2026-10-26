@@ -63,9 +63,20 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **LinkedIn:** [Your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **Email:** YOUR_EMAIL
+html
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://cdn.simpleicons.org/github/white" width="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
