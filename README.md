@@ -27,7 +27,7 @@ I’m an IT student who enjoys learning through hands-on projects and building u
 </div>
 
 <p align="center">
-  <a href="https://instagram/vinaancilla">
+  <a href="https://www.instagram.com/vinaancilla/">
     <img src="Asset/Insta" width="32" alt="GitHub" />
   </a>
 </p>
